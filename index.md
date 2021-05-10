@@ -4,9 +4,7 @@ Download link sa Google Drive-a: [Download](https://drive.google.com/file/d/1Ttz
 
 ### Osnovna logika bez pratecih klasa je ispod
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
+`
 
 extends TileMap
 
@@ -88,4 +86,4 @@ func susedna_polja_nisu_posecena(cell):
 	return neighbours
 
 
-```
+`
