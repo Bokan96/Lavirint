@@ -4,7 +4,7 @@ Download link sa Google Drive-a: [Download](https://drive.google.com/file/d/1Ttz
 
 ### Osnovna logika bez pratecih klasa je ispod
 
-`
+```markdown
 
 extends TileMap
 
@@ -85,5 +85,4 @@ func susedna_polja_nisu_posecena(cell):
 			neighbours.append(cell + dir)
 	return neighbours
 
-
-`
+```
