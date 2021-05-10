@@ -1,6 +1,6 @@
 ## Lavirint
-
-Download link sa Google Drive-a: [Download](https://drive.google.com/file/d/1TtzQ5N6_SucjwUfoNKokzYS1jVhIkufn/view?usp=sharing)
+[
+Download link sa Google Drive-a](https://drive.google.com/file/d/1TtzQ5N6_SucjwUfoNKokzYS1jVhIkufn/view?usp=sharing)
 
 ### Osnovna logika bez pratecih klasa je ispod
 
